@@ -1,0 +1,6 @@
+count_of_completed_homework=12
+count_hours_spent=1.5
+name_of_cours='python'
+time_for_one_task=count_hours_spent/count_of_completed_homework
+print(count_of_completed_homework)
+print('Курс:',name_of_cours,',всего задач:',count_of_completed_homework,',затрачено часов:',count_hours_spent,',среднее время выполнения',time_for_one_task )
